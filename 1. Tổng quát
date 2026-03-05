@@ -1,0 +1,474 @@
+Với **~3 năm kinh nghiệm Digital Marketing** nên lộ trình học không nên kiểu “beginner học lại từ đầu”, mà nên chuyển sang **tư duy performance + strategy + data-driven marketing**.
+Những kiến thức bên dưới giúp bạn định hướng **từ Ads Operator → Marketing Strategist**.
+
+Mình sẽ gom lại và làm thành **lộ trình 4 giai đoạn trong ~6–9 tháng** để nâng từ **mid-level → senior-level thinking**. 🚀
+
+---
+
+# Lộ trình nâng cấp Digital Marketer (3 năm kinh nghiệm → Senior)
+
+## Giai đoạn 1: Chuẩn hóa Tracking & Data (1–2 tháng)
+
+Mục tiêu: **không chạy ads kiểu cảm tính nữa, mọi thứ đo được bằng data**
+
+### 1️⃣ Tracking cần thành thạo
+
+* **Meta Pixel**
+* **Google Tag Manager (GTM)**
+* **GA4**
+* **Conversion Tracking**
+
+Các kỹ năng cần học:
+
+**Setup tracking chuẩn**
+
+* PageView
+* ViewContent
+* AddToCart
+* InitiateCheckout
+* Purchase / Lead
+
+**Event tracking**
+
+* click button
+* scroll
+* form submit
+* video view
+
+**Server-side tracking (advanced)**
+
+* Meta Conversion API
+* GA4 server tracking
+
+**Tool nên biết**
+
+* Google Tag Manager
+* GA4
+* Meta Event Manager
+* Looker Studio (dashboard)
+
+👉 Bài tập thực tế:
+
+* Setup full tracking cho 1 landing page
+* Tạo dashboard report:
+
+  * Traffic
+  * Lead
+  * Cost per lead
+  * Conversion rate
+
+---
+
+# Giai đoạn 2: Landing Page Optimization (1–2 tháng)
+
+Mục tiêu: **tăng CVR thay vì chỉ tăng traffic**
+
+### Các chỉ số cần hiểu sâu
+
+**CTR**
+
+* Click Through Rate
+
+**CVR**
+
+* Conversion Rate
+
+**CPC**
+
+* Cost per click
+
+**CPL**
+
+* Cost per lead
+
+---
+
+### Landing Page cần test
+
+Những yếu tố cần test:
+
+1️⃣ Headline
+2️⃣ Hero section
+3️⃣ CTA button
+4️⃣ Form length
+5️⃣ Social proof
+6️⃣ Pricing
+
+---
+
+### Tool nên học
+
+Heatmap & behavior:
+
+* Hotjar
+* Microsoft Clarity
+
+A/B testing:
+
+* Google Optimize (cũ)
+* VWO
+* Optimizely
+
+---
+
+### Bài tập thực tế
+
+Test ít nhất:
+
+**5–10 landing page version**
+
+Ví dụ:
+
+V1
+
+```
+CTA: Đăng ký ngay
+```
+
+V2
+
+```
+CTA: Nhận tư vấn miễn phí
+```
+
+Đo:
+
+* CTR
+* CVR
+
+---
+
+# Giai đoạn 3: Funnel Marketing (2 tháng)
+
+Mục tiêu: **hiểu customer journey**
+
+Funnel chuẩn:
+
+```
+Awareness
+↓
+Interest
+↓
+Consideration
+↓
+Conversion
+↓
+Retention
+↓
+Advocacy
+```
+
+---
+
+### Ví dụ Funnel thực tế
+
+**Meta Ads**
+
+TOF (Top of funnel)
+
+* Video ads
+* reach
+* traffic
+
+MOF (Middle)
+
+* retarget
+* lead form
+* landing page
+
+BOF (Bottom)
+
+* conversion ads
+* offer
+* urgency
+
+---
+
+### Bài tập
+
+Thiết kế 1 funnel hoàn chỉnh:
+
+Ví dụ:
+
+Cold traffic
+
+```
+video ads
+```
+
+↓
+
+Retarget
+
+```
+case study
+```
+
+↓
+
+Conversion
+
+```
+limited offer
+```
+
+---
+
+# Giai đoạn 4: Multi-channel Strategy (2 tháng)
+
+Senior marketer không chạy **1 kênh**, mà hiểu **logic từng kênh**.
+
+---
+
+### Logic từng kênh
+
+Meta Ads
+
+* demand generation
+* retargeting
+
+Google Search
+
+* demand capture
+
+TikTok Ads
+
+* viral traffic
+
+SEO
+
+* long-term traffic
+
+Email
+
+* retention
+
+---
+
+### Multi channel example
+
+```
+TikTok → awareness
+Meta → retarget
+Google search → capture
+Email → nurture
+```
+
+---
+
+# Giai đoạn 5: Marketing Finance (Senior skill) (1–2 tháng)
+
+Đây là thứ **phân biệt junior vs senior**.
+
+Các metric cần master:
+
+### CPL
+
+Cost per lead
+
+### CAC
+
+Customer acquisition cost
+
+### ROAS
+
+Return on ad spend
+
+### LTV
+
+Lifetime value
+
+---
+
+### Ví dụ
+
+Ads spend
+
+```
+$1000
+```
+
+Leads
+
+```
+200
+```
+
+CPL
+
+```
+$5
+```
+
+---
+
+Khách mua
+
+```
+20
+```
+
+CAC
+
+```
+$50
+```
+
+---
+
+Giá trị khách hàng
+
+```
+LTV = $200
+```
+
+→ profitable
+
+---
+
+# Tư duy quan trọng của Senior Marketer
+
+### 1️⃣ Không optimize ads
+
+Optimize **funnel**
+
+---
+
+### 2️⃣ Không chạy theo CPC
+
+Chạy theo
+
+```
+profit
+```
+
+---
+
+### 3️⃣ Quyết định dựa trên data
+
+Ví dụ:
+
+Sai mindset
+
+```
+campaign này thấy ổn
+```
+
+Đúng mindset
+
+```
+CVR tăng 18%
+CPL giảm 23%
+```
+
+---
+
+# Kinh nghiệm thực tế trong ngành
+
+### 1️⃣ Luôn test
+
+Senior marketer:
+
+```
+test > opinion
+```
+
+---
+
+### 2️⃣ Không scale khi chưa profitable
+
+Sai:
+
+```
+scale ads ngay
+```
+
+Đúng:
+
+```
+test → profitable → scale
+```
+
+---
+
+### 3️⃣ Luôn xây asset
+
+Asset gồm:
+
+* email list
+* pixel data
+* community
+* content
+
+---
+
+# Roadmap học 6–9 tháng
+
+### Tháng 1–2
+
+Tracking
+
+* GA4
+* GTM
+* Meta Pixel
+
+---
+
+### Tháng 3–4
+
+Landing page optimization
+
+* heatmap
+* A/B test
+
+---
+
+### Tháng 5–6
+
+Funnel marketing
+
+* TOF
+* MOF
+* BOF
+
+---
+
+### Tháng 7–9
+
+Multi-channel + marketing finance
+
+* CAC
+* LTV
+* ROAS
+* Budget allocation
+
+---
+
+# Cấp độ nghề nghiệp Digital Marketing
+
+Junior
+
+```
+biết chạy ads
+```
+
+Mid
+
+```
+biết optimize ads
+```
+
+Senior
+
+```
+biết build funnel
+```
+
+Head of Marketing
+
+```
+biết build growth system
+```
+
+---
+
